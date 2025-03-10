@@ -1,5 +1,4 @@
-# EDA-of-Marketing-Campaign-
-# 📊 Marketing Campaign Analysis Using SQL
+# 📊 EDA-of-Marketing-Campaign-Analysis-Using-SQL
 
 **🚀 About This Project**
 
